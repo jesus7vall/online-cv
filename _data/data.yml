@@ -8,19 +8,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jesus Rubio
+    tagline: Programador
+    avatar: gettyimages-144148287-1024x1024.webp  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
+    email: jesrubsan2@alu.edu.gva.es
     phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: https://covesdesantjosep.es/ # Include the full website URL, including "http://" or "https://".
+    linkedin: jesrubsan2
+    xing: jesrubsan2
+    github: jesus7vall
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -37,13 +36,13 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: + o -
 
         - idiom: French
-          level: Professional
+          level: z1
 
         - idiom: Spanish
-          level: Professional
+          level: nativo
 
     interests:
       title: Interests
@@ -54,18 +53,15 @@ sidebar:
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Sleeping
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Soy una persona apasionada por la tecnología,con varios años de experiencia trabajando en sector servicios.
+     Me encanta aprender cosas nuevas y encontrar soluciones creativas a los desafíos que se me presentan. 
+     He tenido la oportunidad de tra Me considero una persona proactiva, con muchas ganas de seguir creciendo profesionalmente y aportar mi experiencia a nuevos retos.
 education:
     title: Education
     info:
