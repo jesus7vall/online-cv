@@ -65,17 +65,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: FP DAW
+        university: IES Benigaslo
+        time: 2024- 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        estudios superiores de informatica, cursado en IES Benigaslo con unas bellisimas perosnas.
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
